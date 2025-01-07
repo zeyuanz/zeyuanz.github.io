@@ -13,7 +13,7 @@ Education
 ======
 * **The University of Hong Kong** <span style="float:right;"> Hong Kong SAR, China </span><br/>
   _Ph.D. in AI & Healthcare_  <span style="float:right;">  Sep 2022 &mdash; Present </span><br/>
-* **Carnegie Mellon University** <span style="float:right;"> PA, USA </span><br/>
+* **Carnegie Mellon University** <span style="float:right;"> Pittsburgh, PA, USA </span><br/>
   _Master of Science in Computational Biology_ <span style="float:right;">  2021 </span><br/>
 * **Shanghai Jiao Tong University** <span style="float:right;"> Shanghai, China </span><br/>
   _Bachelor of Engineering in Bioengineering_ <span style="float:right;">  2019 </span><br/>
@@ -24,7 +24,7 @@ Work experience
 * **Alogrithm Development Engineer** <span style="float:right;"> Sep 2021 &mdash; April 2022 </span><br/>
  _Meituan Inc_ <span style="float:right;"> Beijing, China </span><br/>
 * **Research Assistant** <span style="float:right;"> Jan 2020 &mdash; May 2021 </span><br/>
- _Carnegie Mellon University_ <span style="float:right;"> PA, USA </span><br/>
+ _Carnegie Mellon University_ <span style="float:right;"> Pittsburgh, PA, USA </span><br/>
 
 Honors
 ======
