@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Zuo, Zeyuan / Zeyuan's Space"
 title_separator          : "-"
 name                     : &name "Zuo, Zeyuan"
-description              : &description "personal description"
-url                      : "https://zeyuanz.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "Phd Candidate in AI in Heathcare"
+url                      : https://zeyuanz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""
+repository               : "zeyuanz/zeyuanz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
