@@ -21,48 +21,19 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Alogrithm Development Engineer** <span style="float:right;"> Sep 2021 &mdash; April 2022 </span><br/>
+ _Meituan Inc_ <span style="float:right;"> Beijing, China </span><br/>
+* **Research Assistant** <span style="float:right;"> Jan 2020 &mdash; May 2021 </span><br/>
+ _Carnegie Mellon University_ <span style="float:right;"> PA, USA </span><br/>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Honors
+======
+* **Hong Kong Phd Fellowship Scheme** <span style="float:right;"> Apr 2022 </span><br/>
+* **Hong Kong University Presidential Award** <span style="float:right;"> Fed 2022 </span><br/>
+* **Graduated with Outstanding Academic Achievement of Carnegie Mellon University** <span style="float:right;"> May 2021 </span><br/>
+* **Graduated with Excellent Research of Carnegie Mellon University** <span style="float:right;"> May 2021 </span><br/>
+* **Graduated with Distinction of Shanghai Jiao Tong University** <span style="float:right;"> June 2019 </span><br/>
+* **Xuji Fan Fellowship for research in University of Ottawa** <span style="float:right;"> Nov 2018 </span><br/>
+* **Victor and William Fung Fellowship for research in University of Oxford** <span style="float:right;"> May 2017 </span><br/>
+* **Academic Scholarships for students ranking top 20%** <span style="float:right;"> 2016, 2017, 2018 </span><br/>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
