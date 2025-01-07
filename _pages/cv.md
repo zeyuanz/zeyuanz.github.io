@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * **The University of Hong Kong** <span style="float:right;"> Hong Kong SAR, China </span><br/>
-  _Ph.D. in AI & Healthcare  <span style="float:right;">  Sep 2022 &mdash; Present </span><br/>
+  _Ph.D. in AI & Healthcare_  <span style="float:right;">  Sep 2022 &mdash; Present </span><br/>
 * **Carnegie Mellon University** <span style="float:right;"> PA, USA </span><br/>
-  _Master of Science in Computational Biology <span style="float:right;">  2021 </span><br/>
+  _Master of Science in Computational Biology_ <span style="float:right;">  2021 </span><br/>
 * **Shanghai Jiao Tong University** <span style="float:right;"> Shanghai, China </span><br/>
-  _Bachelor of Engineering in Bioengineering <span style="float:right;">  2019 </span><br/>
+  _Bachelor of Engineering in Bioengineering_ <span style="float:right;">  2019 </span><br/>
   _Bachelor of Economics in Financing (minor)_ <span style="float:right;">  2019 </span><br/>
 
 Work experience
