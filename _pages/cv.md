@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **The University of Hong Kong** <span style="float:right;"> Hong Kong SAR, China </span><br/>
-  _PhD in AI & Healthcare_  <span style="float:right;">  Sep 2022 &mdash; Present </span><br/>
+  _PhD Candidate in AI & Healthcare_  <span style="float:right;">  Sep 2022 &mdash; Present </span><br/>
 * **Carnegie Mellon University** <span style="float:right;"> Pittsburgh, PA, USA </span><br/>
   _Master of Science in Computational Biology_ <span style="float:right;">  2021 </span><br/>
 * **Shanghai Jiao Tong University** <span style="float:right;"> Shanghai, China </span><br/>
