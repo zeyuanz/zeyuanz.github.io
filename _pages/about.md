@@ -8,4 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am a PhD student in the Department of Orthopaedics and Traumatology, Li Ka Shing Faculty of Medicine, The University of Hong Kong. My PhD research focuses on novel federated learning frameworks and algorithms for orthopaedic research and healthcare applications. I am also interested in fine-tuning pre-trained language models for specific tasks in the medical domain, with a minium resource consumption and restricted data access. In my daily life, I enjoy cooking and working out in the gym, which help me maintain a healthy lifestyle and a positive mindset.
+I am a PhD candidate in the Department of Orthopaedics and Traumatology at the Li Ka Shing Faculty of Medicine, The University of Hong Kong. My research focuses on developing novel federated learning frameworks and algorithms tailored for orthopaedic research and healthcare applications. I am also passionate about fine-tuning pre-trained language models for medical domain tasks, with an emphasis on minimizing resource consumption while working within restricted data access constraints.
+
+Beyond my academic pursuits, I enjoy cooking and working out at the gym-activities that help me maintain a healthy lifestyle and a positive mindset.
