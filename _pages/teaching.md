@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching Experience
-
-### CMED7330: Introduction to AI in Healthcare
+## CMED7330: Introduction to AI in Healthcare
 **Li Ka Shing Faculty of Medicine, The University of Hong Kong (HKU)**
 
 **Role:** Lecturer  
